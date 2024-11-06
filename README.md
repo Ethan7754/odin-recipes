@@ -1,0 +1,1 @@
+In this project, I created a recipe website with individual pages dedicated to recipes, all linked to a homepage. In completing this project, I was able to demonstrate my ability to use html boilerplate and basic elements to string together a functional website.
