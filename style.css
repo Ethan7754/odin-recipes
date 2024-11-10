@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: brown;
+    color: white;
+    font-size: 30px;
+}
+
+a {
+    color: white;
+}
+
+img {
+    border-radius: 15px; 
+}
+
+h1, h2{
+    font-family: Tahoma, sans-serif;
+}
+
+p, li {
+    font-family: courier, sans-serif;
+}
+
+ol {
+    margin-left: 10px;
+}
